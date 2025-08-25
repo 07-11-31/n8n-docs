@@ -1,4 +1,4 @@
----
+pcsk_6AARtg_TqnPmpYocJ7spExTT2kVp1Vi86gCALoJ8EgxoX5aRxuUyeAxwYZSpTmB5zikJzN---
 #https://www.notion.so/n8n/Frontmatter-432c2b8dff1f43d4b1c8d20075510fe4
 title: n8n Glossary
 description: A glossary of terms commonly used when working with n8n and related software.
